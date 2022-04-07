@@ -1,15 +1,3 @@
----
-title: "Ansible Role: serdigital64.hardware.hw_gpu_amd"
-description: "Manage provisioning of AMD GPU drivers"
-authors:
-  - SerDigital64
-tags:
-  - ansible
-  - devops
-  - linux
-  - automation
----
-
 # Ansible Role: serdigital64.hardware.hw_gpu_amd
 
 ## Purpose
