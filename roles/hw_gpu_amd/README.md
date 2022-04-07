@@ -72,7 +72,7 @@ hw_gpu_amd_application:
 
 ### OS Compatibility
 
-- CentOS8
+The operating system compatibility list is defined in the variable: `hw_gpu_amd_platforms`
 
 ### Dependencies
 
